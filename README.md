@@ -1,0 +1,1 @@
+Developed an interactive number guessing game using HTML, CSS, and JavaScript. Users enter a number and receive feedback indicating whether the guess is correct, too high, or too low. Implemented game logic, user input handling, and dynamic feedback to create an engaging user experience.
